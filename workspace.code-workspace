@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\pagina"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\carnet-U"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sistema de carnetizacion U"
+	}
+}
